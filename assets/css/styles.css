@@ -1,0 +1,34 @@
+body {
+  /*background-image: url(https://laboratoire-prodiga.com/wp-content/uploads/2021/06/laboratoire-flacons-serum-nettoyage-billet-banque.jpg);*/
+  background: var(--bs-body-bg);
+}
+
+.navbar {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+@media (max-width: 992px) {
+  .navbar {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+#presentation {
+  margin-top: 12px;
+  padding-top: 12px;
+}
+
+.navbar-nav li a.active, .navbar-nav li a:hover {
+  border: solid 1px;
+  border-radius: 12px;
+}
+
+img {
+  object-fit: contain;
+}
+
+.carousel-item {
+}
+

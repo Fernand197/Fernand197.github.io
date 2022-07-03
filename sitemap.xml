@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://camdev.me/a-propos.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/article_1.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/article_2.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/article_3.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/article_4.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/article_5.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/blog.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/contact.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/services.html</loc>
+    </url>
+    <url>
+        <loc>http://camdev.me/videos.html</loc>
+    </url>
+</urlset>
