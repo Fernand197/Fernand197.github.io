@@ -32,3 +32,12 @@ img {
 .carousel-item {
 }
 
+@media (max-width: 500px) {
+  #wp {
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
